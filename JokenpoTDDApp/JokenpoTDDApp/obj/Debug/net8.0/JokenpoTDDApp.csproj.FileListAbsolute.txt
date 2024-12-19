@@ -1,0 +1,11 @@
+C:\Users\gabriel.gietzel\Documents\Tests\TDD\JokenpoTDDApp\JokenpoTDDApp\bin\Debug\net8.0\JokenpoTDDApp.deps.json
+C:\Users\gabriel.gietzel\Documents\Tests\TDD\JokenpoTDDApp\JokenpoTDDApp\bin\Debug\net8.0\JokenpoTDDApp.dll
+C:\Users\gabriel.gietzel\Documents\Tests\TDD\JokenpoTDDApp\JokenpoTDDApp\bin\Debug\net8.0\JokenpoTDDApp.pdb
+C:\Users\gabriel.gietzel\Documents\Tests\TDD\JokenpoTDDApp\JokenpoTDDApp\obj\Debug\net8.0\JokenpoTDDApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabriel.gietzel\Documents\Tests\TDD\JokenpoTDDApp\JokenpoTDDApp\obj\Debug\net8.0\JokenpoTDDApp.AssemblyInfoInputs.cache
+C:\Users\gabriel.gietzel\Documents\Tests\TDD\JokenpoTDDApp\JokenpoTDDApp\obj\Debug\net8.0\JokenpoTDDApp.AssemblyInfo.cs
+C:\Users\gabriel.gietzel\Documents\Tests\TDD\JokenpoTDDApp\JokenpoTDDApp\obj\Debug\net8.0\JokenpoTDDApp.csproj.CoreCompileInputs.cache
+C:\Users\gabriel.gietzel\Documents\Tests\TDD\JokenpoTDDApp\JokenpoTDDApp\obj\Debug\net8.0\JokenpoTDDApp.dll
+C:\Users\gabriel.gietzel\Documents\Tests\TDD\JokenpoTDDApp\JokenpoTDDApp\obj\Debug\net8.0\refint\JokenpoTDDApp.dll
+C:\Users\gabriel.gietzel\Documents\Tests\TDD\JokenpoTDDApp\JokenpoTDDApp\obj\Debug\net8.0\JokenpoTDDApp.pdb
+C:\Users\gabriel.gietzel\Documents\Tests\TDD\JokenpoTDDApp\JokenpoTDDApp\obj\Debug\net8.0\ref\JokenpoTDDApp.dll

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34723.18
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JokenpoTDDApp", "JokenpoTDDApp\JokenpoTDDApp.csproj", "{8BA9AE53-31E1-4517-A674-CE7823D3EEE3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JokenpoTDDAppTest", "JokenpoTDDAppTest\JokenpoTDDAppTest.csproj", "{8B5E4FFB-4FCF-468C-BF44-143049E90DA5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8BA9AE53-31E1-4517-A674-CE7823D3EEE3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8BA9AE53-31E1-4517-A674-CE7823D3EEE3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8BA9AE53-31E1-4517-A674-CE7823D3EEE3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8BA9AE53-31E1-4517-A674-CE7823D3EEE3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8B5E4FFB-4FCF-468C-BF44-143049E90DA5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B5E4FFB-4FCF-468C-BF44-143049E90DA5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B5E4FFB-4FCF-468C-BF44-143049E90DA5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B5E4FFB-4FCF-468C-BF44-143049E90DA5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {125F44E3-DACB-4D80-B684-F8221E428834}
+	EndGlobalSection
+EndGlobal
